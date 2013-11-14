@@ -1,0 +1,18 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "5dce6215-73dd-4d09-b88e-b538d13e83c7",
+    "appKeys": {},
+    "longName": "2",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "2",
+    "companyName": "atriix",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    }
+}
